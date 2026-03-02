@@ -38,7 +38,7 @@ Press shortcut, select area to OCR
 Press shortcut, select area to translate
 
 <img src="asset/005.gif"/>  
-
+https://ai-devkit.com/docs/1-getting-started/
 ---
 
 
